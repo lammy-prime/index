@@ -1,0 +1,29 @@
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+}
+
+
+}
+p{
+	color:  #4d4d00;
+	text-align: center;
+	border: 5px solid #000066;
+	cursor: pointer;
+
+}
+p {
+	color: pink;
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 130%;
+	font-family: pacifico;
+}
+img {
+	float: right;
+}
+li {
+	list-style: none;
+	display: inline-block; ;
+}

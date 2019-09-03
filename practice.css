@@ -1,0 +1,17 @@
+body {
+	background-image: url(practice.jpg);
+	background-size: cover;
+}
+h3 {
+	text-align: center;
+	color: white;
+	padding-top: 300px;
+}
+input {
+	background-color: rgb(235, 91, 52);
+	margin: 150px 50px 300px 600px;
+
+}
+a:hover {background-color: yellow;
+
+}
